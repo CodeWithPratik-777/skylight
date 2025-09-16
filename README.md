@@ -1,12 +1,16 @@
-# React + Vite
+🚀 Just Dropped: Skylight — An Event Schedule Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📸 Every part of Skylight — from how the text flows to how the images move — is designed to spotlight the speakers, sessions, and the overall event vibe.
 
-Currently, two official plugins are available:
+🛠️ Built With:
+  ✨ React – the core framework powering everything
+  ✨ Tailwind CSS – for fast, responsive, utility-first styling
+  ✨ Framer Motion – to bring animations and interactions to life
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+![1752993740523](https://github.com/user-attachments/assets/06d5b10b-f3bb-4d6b-be11-0e8286787939)
 
-## Expanding the ESLint configuration
+![1752993740674](https://github.com/user-attachments/assets/41a3b0a8-6c53-47c8-95cc-1b3ac9bc3647)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![1752993740102](https://github.com/user-attachments/assets/d54bc899-c4a4-4ee9-beb3-fdf6df8e92d6)
+
